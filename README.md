@@ -1,6 +1,6 @@
 👋 Hi, I’m @TechExpertNinja, a tech enthusiast exploring software development, AI, and cybersecurity.
 
-👀 I’m currently learning and honing my skills in [specific technologies/areas].
+👀 I’m currently learning and honing my skills in Websites, Mobile, Server and Web Application Development.
 
 💞️ Open to collaborating on innovative projects that challenge norms.
 
